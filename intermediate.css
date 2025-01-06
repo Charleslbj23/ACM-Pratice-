@@ -1,0 +1,36 @@
+.orange-box {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+  }
+  .padded-orange-box {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+  }
+
+
+  
+  .text-card-mb {
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.float-left {
+    float: left;
+    background: red;
+  }
+  
+  .float-right {
+    float: right;
+    background: blue;
+  }
